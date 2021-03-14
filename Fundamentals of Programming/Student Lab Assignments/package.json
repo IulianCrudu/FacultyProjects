@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "python3 start.py",
+    "pyunit": "python3 -m unittest"
+  }
+}
